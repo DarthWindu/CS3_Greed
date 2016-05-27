@@ -1,6 +1,8 @@
 # CS3_Greed
 Greed Project for CS3
 
+Bebo H., Pujit M., Brian T., Arnav S.
+
 Assignment: 
 For this assignment, you will create a computer controlled greed strategy. You will extend the GreedStrategy class with a class that plays greed. You will need to create the choose method, programming it so that it makes the choice in response to the number of dice, available options, and bank, that results in the highest average points per turn.
 
